@@ -1,0 +1,21 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+*.log
+*.sqlite
+*.toml
+*.db
+
+.eslintrc.json
+
+package-lock.json
+tsconfig.json
+
+*.app
+*.bin
+*.dll
+*.exe
+*.o
+*.out
+*.so
